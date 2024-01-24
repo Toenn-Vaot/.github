@@ -6,22 +6,20 @@ We are happy to see you here. Let me present what we have done and what we are d
 
 ## 🍿 Games
 ### [checkers](https://github.com/Toenn-Vaot/checkers)
-Who has never dream to learn coding a game ? That's why this project is birth. To help another colleague about events, decide to illustrate with fun the concept.
+Who has never dreamed of learning to code a game? That's why this project was born — to assist a colleague with events and to illustrate the concept with fun.
 
-At the end, continue to code the game and tadaa, checkers project is now here. Not complete yet but works.
+In the end, continuing to code the game, and ta-da, the checkers project is now here. It's not complete yet, but it works
 
 ## 🔐 Security
 ### [signaturgruppen.oauth](https://github.com/Toenn-Vaot/signaturgruppen.oauth)
-In mission on a Danish project, confrontate to the customer need "integrate MITID in the authenticate process". The new social identification process (MITID) just arrived and there was a litte documentation, no plugin. So decide to develop 
-a package to help developers integrating MITID in their .Net applications.
+While on a mission for a Danish project, I was confronted with the customer's requirement to 'integrate MITID into the authentication process.' The new social identification process (MITID) had recently been introduced, and there was limited documentation and no plugin available. Therefore, I decided to develop a package to assist developers in integrating MITID into their .Net applications.
 
 ## 🛠️ Tools
 ### [citadel-export](https://github.com/Toenn-Vaot/citadel-export)
 Well, during Thales mission, we used Citadel to communicate and exchange files safely. But company migration oblige us to move to another tool. So we need to save and extract all the rooms and files exist in our Citadel environment.
-Based of the work of [montag451/citadel-export](https://github.com/montag451/citadel-export), add some features and improvements to manage empty rooms and other rare scenarios.
+Building upon the work of [montag451/citadel-export](https://github.com/montag451/citadel-export), I aim to add some features and improvements to manage empty rooms and other rare scenarios.
 
 ### [download-ubereats-invoices](https://github.com/Toenn-Vaot/download-ubereats-invoices)
-Every month, there is 1 day we want to forget. The accounting day, the day when you have to retrieve all the invoices, piece of papers and justify all the payments (that it in France).
+Every month, there is one day we want to forget: the accounting day. It's the day when you have to retrieve all the invoices, pieces of paper, and justify all the payments (that's in France).
 
-When especially, you use a lot UberEats, you have one or many invoices to download and even with a business account you have not the option **Download all**. So now, I develop a little javascript script to help downloading the invoices 
-of what is displayed on the screen and saved them with the naming rules defined
+Especially when you use UberEats frequently, you end up with one or many invoices to download. Even with a business account, you don't have the option to **Download all**. So now, I've developed a small JavaScript script to help download the invoices of what is displayed on the screen and save them with the naming rules defined.
