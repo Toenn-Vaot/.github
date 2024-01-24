@@ -8,7 +8,7 @@ We are happy to see you here. Let me present what we have done and what we are d
 ### [checkers](https://github.com/Toenn-Vaot/checkers)
 Who has never dream to learn coding a game ? That's why this project is birth. To help another colleague about events, decide to illustrate with fun the concept.
 
-At the end, continue to code and the game and tadaa, checkers project is now here. Not complete yet but works.
+At the end, continue to code the game and tadaa, checkers project is now here. Not complete yet but works.
 
 ## 🔐 Security
 ### [signaturgruppen.oauth](https://github.com/Toenn-Vaot/signaturgruppen.oauth)
