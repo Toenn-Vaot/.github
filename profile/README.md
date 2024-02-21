@@ -10,6 +10,11 @@ Who has never dreamed of learning to code a game? That's why this project was bo
 
 In the end, continuing to code the game, and ta-da, the checkers project is now here. It's not complete yet, but it works
 
+## 🧰 Powershell modules
+When the job of developer never ends to the unique code he has to develop he has to code some scripts to facilitate the process, the extra-things he does repeatly on his machine. Out of that, some powershell modules were born and you can see the list below :
+- [GetBoolChoice](https://github.com/Toenn-Vaot/psmodule-get-bool-choice) | Powershell module with command for asking a boolean question to user with or without default value
+- [GetTargetChoice](https://github.com/Toenn-Vaot/psmodule-get-target-choice) | Powershell module with command for asking a question to user to choose the process target between Debug or Release
+
 ## 🔐 Security
 ### [signaturgruppen.oauth](https://github.com/Toenn-Vaot/signaturgruppen.oauth)
 While on a mission for a Danish project, I was confronted with the customer's requirement to 'integrate MITID into the authentication process.' The new social identification process (MITID) had recently been introduced, and there was limited documentation and no plugin available. Therefore, I decided to develop a package to assist developers in integrating MITID into their .Net applications.
