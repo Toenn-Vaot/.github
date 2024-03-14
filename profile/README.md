@@ -23,6 +23,10 @@ When the job of developer never ends to the unique code he has to develop he has
 ### [signaturgruppen.oauth](https://github.com/Toenn-Vaot/signaturgruppen.oauth)
 While on a mission for a Danish project, I was confronted with the customer's requirement to 'integrate MITID into the authentication process.' The new social identification process (MITID) had recently been introduced, and there was limited documentation and no plugin available. Therefore, I decided to develop a package to assist developers in integrating MITID into their .Net applications.
 
+## 🧑🏻‍🎓 School
+### [PYTHON: Conway sequence](https://github.com/Toenn-Vaot/python-exercice-conway-sequence)
+A classic exercise for beginning development in any language. Here you can found for Python language.
+
 ## 🛠️ Tools
 ### [citadel-export](https://github.com/Toenn-Vaot/citadel-export)
 Well, during Thales mission, we used Citadel to communicate and exchange files safely. But company migration oblige us to move to another tool. So we need to save and extract all the rooms and files exist in our Citadel environment.
