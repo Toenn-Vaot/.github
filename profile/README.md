@@ -10,6 +10,10 @@ Who has never dreamed of learning to code a game? That's why this project was bo
 
 In the end, continuing to code the game, and ta-da, the checkers project is now here. It's not complete yet, but it works
 
+## 🧪 Test-Driven projects
+What more gorgious that discovering a new approach of development by exploring sample familiar projects. It is the goal here :
+- [Roman Numbers](https://github.com/Toenn-Vaot/roman_numbers) |  TDD project illustrating the transformation of numbers into their roman representation
+
 ## 🧰 Powershell modules
 When the job of developer never ends to the unique code he has to develop he has to code some scripts to facilitate the process, the extra-things he does repeatly on his machine. Out of that, some powershell modules were born and you can see the list below :
 - [GetBoolChoice](https://github.com/Toenn-Vaot/psmodule-get-bool-choice) | Powershell module with command for asking a boolean question to user with or without default value
